@@ -12,7 +12,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_REPO: ReMatter/devspace-containers/go
+  IMAGE_REPO: rematter/devspace-containers/go
 
 defaults:
   run:
